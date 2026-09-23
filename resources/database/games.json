@@ -1,0 +1,105 @@
+{
+    "id": 1,
+    "title": "Sonic the Hedgehog",
+    "publishers": [
+        "Sega"
+    ],
+    "release_date": "1991-06-23",
+    "rating": "E - Everyone",
+    "genres": [
+        "action"
+    ],
+    "description": "Join Sonic as he races through six zones to stop the evil Dr. Eggman from enslaving the animal inhabitants of South Island.",
+    "image": "sonic_the_hedgehog"
+},
+{
+    "id": 2,
+    "title": "Super Mario Galaxy",
+    "publishers": [
+        "Nintendo"
+    ],
+    "release_date": "2007-11-01",
+    "rating": "E - Everyone",
+    "genres": [
+        "platformer",
+        "action"
+    ],
+    "description": "Join Mario as he travels across the galaxy, exploring colorful planets and collecting Power Stars to rescue Princess Peach from Bowser.",
+    "image": "super_mario_galaxy"
+},
+{
+    "id": 3,
+    "title": "Kirby's Epic Yarn",
+    "publishers": [
+        "Nintendo"
+    ],
+    "release_date": "2010-10-17",
+    "rating": "E - Everyone",
+    "genres": [
+        "platformer",
+        "action"
+    ],
+    "description": "Help Kirby explore a world made entirely of yarn, using his unique abilities to transform, defeat enemies, and collect treasures.",
+    "image": "kirbys_epic_yarn"
+},
+{
+    "id": 4,
+    "title": "Pokémon Black and White",
+    "publishers": [
+        "Nintendo"
+    ],
+    "release_date": "2011-03-06",
+    "rating": "E - Everyone"
+    "genres": [
+        "role-playing",
+        "adventure"
+    ],
+    "description": "Explore the Unova region, catch and train Pokémon, and challenge Gym Leaders while uncovering the plans of Team Plasma.",
+    "image": "pokemon_black_and_white"
+},
+{
+    "id": 5,
+    "title": "Wii Sports Resort",
+    "publishers": [
+        "Nintendo"
+    ],
+    "release_date": "2009-07-26",
+    "rating": "E - Everyone",
+    "genres": [
+        "sports",
+        "simulation"
+    ],
+    "description": "Take part in a variety of sports and activities on the tropical Wuhu Island using the Wii Remote and Wii MotionPlus.",
+    "image": "wii_sports_resort"
+},
+{
+    "id": 6,
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "publishers": [
+        "Nintendo"
+    ],
+    "release_date": "2017-03-03",
+    "rating": "E10+ - Everyone 10+",
+    "genres": [
+        "action",
+        "adventure",
+        "role-playing"
+    ],
+    "description": "Explore the vast kingdom of Hyrule as Link awakens from a long slumber and sets out to defeat Calamity Ganon.",
+    "image": "the_legend_of_zelda_botw"
+},
+{
+    "id": 7,
+    "title": "Honkai: Star Rail",
+    "publishers": [
+        "HoYoverse"
+    ],
+    "release_date": "2023-04-26",
+    "rating": "T - Teen",
+    "genres": [
+        "role-playing",
+        "turn-based"
+    ],
+    "description": "Board the Astral Express and travel across worlds while uncovering mysteries and battling enemies in turn-based combat.",
+    "image": "honkai_star_rail"
+}
